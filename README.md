@@ -20,12 +20,12 @@ This tool requires 'macchanger'. For this to work, make sure to install it for y
 # Tool Installation
 `git clone https://github.com/Fizzsh/MacAnon.git`
 
-`cd macanon.sh`
+`cd MacAnon`
 
-`chmod +x macanon.sh`
+`sudo chmod +x MacAnon.sh`
 
 # Usage
-`bash macanon.sh`
+`bash MacAnon.sh`
 
 
 
