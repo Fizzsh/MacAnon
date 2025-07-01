@@ -1,8 +1,8 @@
 # MacAnon
 A simple Bash script to randomize your MAC address for enhanced privacy.
-![macanon](https://github.com/user-attachments/assets/b0133004-4992-4444-8603-613d24f67c2c)
+![macanonascii](https://github.com/user-attachments/assets/833218a1-2325-4c4d-9912-a9f95e6bdf22)
 
-# This tool requires 'macchanger'. For this to work, make sure to install it for your specific Linux distro with the installation guide below:
+This tool requires 'macchanger'. For this to work, make sure to install it for your specific Linux distro with the installation guide below:
 
 # Debian/Ubuntu/Kali
 `sudo apt install macchanger`
